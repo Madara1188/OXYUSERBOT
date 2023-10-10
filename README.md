@@ -21,7 +21,7 @@ The easiest way to deploy
 - Bot Username: `@SessionStringGeneratorRobot`
 
 ## 🌟 Support
-For any assistance or queries, join our [™°‌ 🫧 🇴 🇽 𝐘 𝐆 𝐄 𝐍](https://t.me/GAMINGGGGGG3).
+For any assistance or queries, join our [™°‌ ⏤͟͞ ≛⃝ᶦϻͣ  🇼𝔼𝔼𝔻𝕃𝔼𝔸𝔽](https://t.me/GAMINGGGGGG3).
 
 🔗 **Quick Links:**
 - [GitHub Repository](https://github.com/gamingbuddyyy/OXYUSERBOT)
