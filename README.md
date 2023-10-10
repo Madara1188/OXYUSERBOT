@@ -4,7 +4,7 @@ The easiest way to deploy
 ⚠️ **Don't forget to fork this repository. Errors may occur during deployment.**
 
 <p align="left">
-  <a href="https://dashboard.heroku.com/new?template=https://github.com/PRADHAN474/OXYUSERBOT">
+  <a href="https://dashboard.heroku.com/new?template=https://github.com/gamingbuddyyy/OXYUSERBOT">
     <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-pink?style=for-the-badge&logo=heroku" width="220" height="38.45" alt="Deploy to Heroku">
   </a>
 </p>
@@ -21,9 +21,9 @@ The easiest way to deploy
 - Bot Username: `@SessionStringGeneratorRobot`
 
 ## 🌟 Support
-For any assistance or queries, join our [™°‌ 🫧 🇴 🇽 𝐘 𝐆 𝐄 𝐍](https://t.me/PRADHAN474).
+For any assistance or queries, join our [™°‌ 🫧 🇴 🇽 𝐘 𝐆 𝐄 𝐍](https://t.me/GAMINGGGGGG3).
 
 🔗 **Quick Links:**
-- [GitHub Repository](https://github.com/PRADHAN474/OXYUSERBOT)
+- [GitHub Repository](https://github.com/gamingbuddyyy/OXYUSERBOT)
 
 Enjoy deploying with ease!
