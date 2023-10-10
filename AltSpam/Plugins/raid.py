@@ -84,7 +84,7 @@ async def rraid(xspam: Client, message: Message):
                 await message.reply_text("» ɴᴏ, ᴛʜɪꜱ ɢᴜʏ ɪꜱ ᴀ ꜱᴜᴅᴏ ᴜꜱᴇʀ !")
           else:
               WWW.append(id)
-              await message.reply_text("» ᴀᴄᴛɪᴠᴀᴛᴇᴅ ʀᴇᴘʟʏʀᴀɪᴅ !! ✅")
+              await message.reply_text("» ruk teri maa chodtaa hu !! ✅")
 
       elif message.reply_to_message:
           user_id = message.reply_to_message.from_user.id
@@ -96,7 +96,7 @@ async def rraid(xspam: Client, message: Message):
                 await message.reply_text("» ɴᴏ, ᴛʜɪꜱ ɢᴜʏ ɪꜱ ᴀ ꜱᴜᴅᴏ ᴜꜱᴇʀ !")
           else:
               WWW.append(user_id)
-              await message.reply_text("» ᴀᴄᴛɪᴠᴀᴛᴇᴅ ʀᴇᴘʟʏʀᴀɪᴅ !! ✅")
+              await message.reply_text("» ruk teri maa chodtaa hu !! ✅")
 
       else:
           await message.reply_text("⚡ ᴜsᴀɢᴇ:\n\n» !rraid <ᴜꜱᴇʀɴᴀᴍᴇ ᴏꜰ ᴜꜱᴇʀ>\n» !rraid <ʀᴇᴘʟʏ ᴛᴏ ᴀ ᴜꜱᴇʀ>")
@@ -111,7 +111,7 @@ async def draid(xspam: Client, message: Message):
           id = ok.id
           if id in WWW:
               WWW.remove(id)
-              await message.reply_text("» ʀᴇᴘʟʏ ʀᴀɪᴅ ᴅᴇ-ᴀᴄᴛɪᴠᴀᴛᴇᴅ !! ✅")
+              await message.reply_text("» maa chud gayi bhaia ji !! ✅")
 
       elif message.reply_to_message:
           user_id = message.reply_to_message.from_user.id
@@ -119,7 +119,7 @@ async def draid(xspam: Client, message: Message):
           id = ok.id
           if id in WWW:
               WWW.remove(id)
-              await message.reply_text("» ʀᴇᴘʟʏ ʀᴀɪᴅ ᴅᴇ-ᴀᴄᴛɪᴠᴀᴛᴇᴅ !! ✅")
+              await message.reply_text("» maa chud gayi bhaia ji !! ✅")
 
       else:
           await message.reply_text("⚡ ᴜsᴀɢᴇ:\n\n» !draid <ᴜꜱᴇʀɴᴀᴍᴇ ᴏꜰ ᴜꜱᴇʀ>\n» !draid <ʀᴇᴘʟʏ ᴛᴏ ᴀ ᴜꜱᴇʀ>")
