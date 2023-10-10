@@ -26,7 +26,7 @@ async def init():
     LOGGER("AltSpam").info("Necessary Modules Imported Successfully !")
     
     await userbot()
-    LOGGER("AltSpam").info("🦋⃟ ᴠ‌ɪ‌ᴘ‌ 🇴 🇽 𝐘 𝐆 𝐄 𝐍⃝⃝⃪⃕🥀🦋‌•─‌⃛≛⃝🦅 Started Successfully !")
+    LOGGER("AltSpam").info(" ⏤͟͞ ≛⃝ᶦϻͣ 🇼𝔼𝔼𝔻𝕃𝔼𝔸𝔽 Started Successfully !")
     await idle()
 
 
