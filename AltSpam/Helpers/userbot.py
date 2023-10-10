@@ -37,13 +37,13 @@ async def userbot():
         alt1 = get_me1.id
         config.SUDO_USERS.append(alt1)
         try:
-            await one.join_chat("BWANDARLOK")
-            await one.join_chat("BWANDARLOK")
-            await one.join_chat("BWANDARLOK")
-            await one.join_chat("BWANDARLOK")
+            await one.join_chat("BILLAGANGHH")
+            await one.join_chat("BILLAGANGHH")
+            await one.join_chat("BILLAGANGHH")
+            await one.join_chat("BILLAGANGHH")
         except:
             pass
-        LOGGER("AltSpam").info("🦋⃟ ᴠ‌ɪ‌ᴘ‌ 🇴 🇽 𝐘 𝐆 𝐄 𝐍⃝⃝⃪⃕🥀🦋‌•─‌⃛≛⃝🦅 ༆𝐗𝐃𐏓 ⃪༏‌⃪🔥᪵᪳❛ !")
+        LOGGER("AltSpam").info("⏤͟͞ ≛⃝ᶦϻͣ ᴄᴅꭙ ≛⃝🇼𝔼𝔼𝔻𝕃𝔼𝔸𝔽 ⋆‌⃝💔─⃛͢⋆ !")
 
     if config.SESSION2:
         await two.start()
@@ -51,13 +51,13 @@ async def userbot():
         alt2 = get_me2.id
         config.SUDO_USERS.append(alt2)
         try:
-            await two.join_chat("BWANDARLOK")
-            await two.join_chat("BWANDARLOK")
-            await two.join_chat("BWANDARLOK")
-            await two.join_chat("BWANDARLOK")
+            await two.join_chat("BILLAGANGHH")
+            await two.join_chat("BILLAGANGHH")
+            await two.join_chat("BILLAGANGHH")
+            await two.join_chat("BILLAGANGHH")
         except:
             pass
-        LOGGER("AltSpam").info("🦋⃟ ᴠ‌ɪ‌ᴘ‌ 🇴 🇽 𝐘 𝐆 𝐄 𝐍⃝⃝⃪⃕🥀🦋‌•─‌⃛≛⃝🦅 ༆𝐗𝐃𐏓 ⃪༏‌⃪🔥᪵᪳❛: !")
+        LOGGER("AltSpam").info("⏤͟͞ ≛⃝ᶦϻͣ ᴄᴅꭙ ≛⃝🇼𝔼𝔼𝔻𝕃𝔼𝔸𝔽 ⋆‌⃝💔─⃛͢⋆ !")
             
     if config.SESSION3:
         await three.start()
@@ -65,13 +65,13 @@ async def userbot():
         alt3 = get_me3.id
         config.SUDO_USERS.append(alt3)
         try:
-            await three.join_chat("BWANDARLOK")
-            await three.join_chat("BWANDARLOK")
-            await three.join_chat("BWANDARLOK")
-            await three.join_chat("BWANDARLOK")
+            await three.join_chat("BILLAGANGHH")
+            await three.join_chat("BILLAGANGHH")
+            await three.join_chat("BILLAGANGHH")
+            await three.join_chat("BILLAGANGHH")
         except:
             pass
-        LOGGER("AltSpam").info("🦋⃟ ᴠ‌ɪ‌ᴘ‌ 🇴 🇽 𝐘 𝐆 𝐄 𝐍⃝⃝⃪⃕🥀🦋‌•─‌⃛≛⃝🦅 ༆𝐗𝐃𐏓 ⃪༏‌⃪🔥᪵᪳❛: !")
+        LOGGER("AltSpam").info("⏤͟͞ ≛⃝ᶦϻͣ ᴄᴅꭙ ≛⃝🇼𝔼𝔼𝔻𝕃𝔼𝔸𝔽 ⋆‌⃝💔─⃛͢⋆ !")
 
     if config.SESSION4:
         await four.start()
@@ -79,13 +79,13 @@ async def userbot():
         alt4 = get_me4.id
         config.SUDO_USERS.append(alt4)
         try:
-            await four.join_chat("BWANDARLOK")
-            await four.join_chat("BWANDARLOK")
-            await four.join_chat("BWANDARLOK")
-            await four.join_chat("BWANDARLOK")
+            await four.join_chat("BILLAGANGHH")
+            await four.join_chat("BILLAGANGHH")
+            await four.join_chat("BILLAGANGHH")
+            await four.join_chat("BILLAGANGHH")
         except:
             pass
-        LOGGER("AltSpam").info(f"🦋⃟ ᴠ‌ɪ‌ᴘ‌ 🇴 🇽 𝐘 𝐆 𝐄 𝐍⃝⃝⃪⃕🥀🦋‌•─‌⃛≛⃝🦅 ༆𝐗𝐃𐏓 ⃪༏‌⃪🔥᪵᪳❛: !")    
+        LOGGER("AltSpam").info(f"⏤͟͞ ≛⃝ᶦϻͣ ᴄᴅꭙ ≛⃝🇼𝔼𝔼𝔻𝕃𝔼𝔸𝔽 ⋆‌⃝💔─⃛͢⋆ !")    
 
     if config.SESSION5:
         await five.start()
@@ -93,11 +93,11 @@ async def userbot():
         alt5 = get_me5.id
         config.SUDO_USERS.append(alt5)
         try:
-            await five.join_chat("BWANDARLOK")
-            await five.join_chat("BWANDARLOK")
-            await five.join_chat("BWANDARLOK")
-            await five.join_chat("BWANDARLOK")
+            await five.join_chat("BILLAGANGHH")
+            await five.join_chat("BILLAGANGHH")
+            await five.join_chat("BILLAGANGHH")
+            await five.join_chat("BILLAGANGHH")
         except:
             pass
-        LOGGER("AltSpam").info(f"🦋⃟ ᴠ‌ɪ‌ᴘ‌ 🇴 🇽 𝐘 𝐆 𝐄 𝐍⃝⃝⃪⃕🥀🦋‌•─‌⃛≛⃝🦅 ༆𝐗𝐃𐏓 ⃪༏‌⃪🔥᪵᪳❛: !")
+        LOGGER("AltSpam").info(f"⏤͟͞ ≛⃝ᶦϻͣ ᴄᴅꭙ ≛⃝🇼𝔼𝔼𝔻𝕃𝔼𝔸𝔽 ⋆‌⃝💔─⃛͢⋆ !")
 
